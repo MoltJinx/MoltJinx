@@ -15,8 +15,6 @@ Soy un entusiasta de la tecnología que combina dos grandes pasiones: la program
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MoltJinx&show_icons=true&theme=radical)
 
 ## Tecnologías y Herramientas
-- Aquí puedes listar las tecnologías que utilizas
-- Por ejemplo: JavaScript, Python, Git, etc.
 
 ## Mis Repositorios Destacados
 Pronto agregaré mis proyectos más interesantes aquí.
