@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola, soy MoltJinx! 👋
 
-<!--
-**MoltJinx/MoltJinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+¡Bienvenido a mi perfil de GitHub! 
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy trabajando en proyectos privados
+- 🌱 Siempre aprendiendo y mejorando
+- 📫 Cómo contactarme: A través de GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis Estadísticas
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MoltJinx&show_icons=true&theme=radical)
+
+## Tecnologías y Herramientas
+- Aquí puedes listar las tecnologías que utilizas
+- Por ejemplo: JavaScript, Python, Git, etc.
+
+## Mis Repositorios Destacados
+Pronto agregaré mis proyectos más interesantes aquí.
+
+---
+⭐️ From [MoltJinx](https://github.com/MoltJinx)
